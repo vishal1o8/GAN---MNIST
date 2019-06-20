@@ -1,2 +1,2 @@
-# GAN---MNIST
+# GAN-MNIST
 Generative Adversarial Networks - MNIST
